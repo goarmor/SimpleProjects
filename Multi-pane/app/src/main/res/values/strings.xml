@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Multi-pane</string>
+    <!-- Android Version Names -->
+    <string-array name="version_names">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+        <item>Item 7</item>
+        <item>Item 8</item>
+        <item>Item 9</item>
+    </string-array>
+
+    <!-- Version Descriptions-->
+    <string-array name="version_descriptions">
+        <item>Item 1 description</item>
+        <item>Item 2 description</item>
+        <item>Item 3 description</item>
+        <item>Item 4 description</item>
+        <item>Item 5 description</item>
+        <item>Item 6 description</item>
+        <item>Item 7 description</item>
+        <item>Item 8 description</item>
+        <item>Item 9 description</item>
+    </string-array>
+</resources>

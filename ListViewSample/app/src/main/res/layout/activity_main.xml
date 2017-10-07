@@ -1,0 +1,42 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <FrameLayout android:layout_width="match_parent"
+                 android:layout_height="match_parent">
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+            <LinearLayout android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:orientation="horizontal">
+                <Button android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="UP"
+                        android:onClick="onUpdateData"/>
+                <Button android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="DEL"
+                        android:onClick="onDeleteData"/>
+                <Button android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="ADD"
+                        android:onClick="onAddData"/>
+            </LinearLayout>
+            <ListView android:id="@android:id/list"
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent"
+                      android:dividerHeight="2dp"
+                      android:divider="@android:color/black"/>
+        </LinearLayout>
+        <FrameLayout android:id="@android:id/empty"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:background="@android:color/white">
+            <TextView android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_gravity="center"
+                      android:text="EMPTY"/>
+        </FrameLayout>
+    </FrameLayout>
+</FrameLayout>

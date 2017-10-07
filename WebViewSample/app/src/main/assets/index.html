@@ -1,0 +1,16 @@
+<html>
+<header>
+    <title>This is title</title>
+
+    <script type="text/javascript">
+            function sent(e) {
+                window.location = "htcmd:" + e
+            }
+         </script>
+
+</header>
+<body>
+<input id="SomeData"  type="text" size="20">
+<input type="submit" value="Sent" onclick="sent(SomeData.value)" >
+</body>
+</html>

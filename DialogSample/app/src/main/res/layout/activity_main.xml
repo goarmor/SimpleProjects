@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <Button
+            android:id="@+id/simple_dialog"
+            android:text="Alert dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"/>
+
+    <Button
+            android:id="@+id/time_dialog"
+            android:text="Time dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"/>
+
+    <Button
+            android:id="@+id/date_dialog"
+            android:text="Date dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"/>
+
+    <Button
+            android:id="@+id/list_dialog"
+            android:text="List dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"/>
+
+    <Button
+            android:id="@+id/progress_dialog"
+            android:text="Progress dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"/>
+
+    <Button
+            android:id="@+id/custom_dialog"
+            android:text="Custom dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"/>
+
+    <Button
+            android:id="@+id/activity_dialog"
+            android:text="Activity dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"/>
+
+    <Button
+            android:id="@+id/full_custom_dialog"
+            android:text="Full screen alert dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"/>
+
+    <Button
+            android:id="@+id/fragment_dialog"
+            android:text="Fragment dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"/>
+
+    <Button
+            android:id="@+id/fragment_other_dialog"
+            android:text="Fragment_other dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"/>
+</LinearLayout>

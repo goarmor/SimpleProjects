@@ -1,0 +1,61 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:orientation="vertical">
+
+        <View
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/frame"/>
+
+        <View
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/frame"/>
+
+        <View
+                android:layout_width="150dp"
+                android:layout_height="450dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:drawable/btn_dropdown"/>
+
+        <View
+                android:layout_width="150dp"
+                android:layout_height="450dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/frame_non"/>
+
+        <View
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/oval"/>
+
+        <View
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/rectangle"/>
+
+        <Button android:layout_width="100dp" android:layout_height="100dp"
+                android:text="Some"
+                android:background="@drawable/some_selector"/>
+
+        <View
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/layer"/>
+
+        <View
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bitmap"/>
+    </LinearLayout>
+</ScrollView>

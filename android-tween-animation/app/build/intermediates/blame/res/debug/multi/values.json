@@ -1,0 +1,485 @@
+[
+    {
+        "outputFile": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 14,
+                        "endColumn": 48,
+                        "endOffset": 61
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 39,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 166,
+                        "endColumn": 36,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 39,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 96,
+                        "endColumn": 36,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 42,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 203,
+                        "endColumn": 39,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 35,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 133,
+                        "endColumn": 32,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 35,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 63,
+                        "endColumn": 32,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endLine": 14,
+                    "endColumn": 9,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 177,
+                        "endLine": 12,
+                        "endColumn": 9,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endLine": 17,
+                    "endColumn": 9,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 480,
+                        "endLine": 17,
+                        "endColumn": 9,
+                        "endOffset": 626
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 16,
+                        "endColumn": 48,
+                        "endOffset": 63
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 39,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 172,
+                        "endColumn": 36,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 39,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 100,
+                        "endColumn": 36,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 42,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 210,
+                        "endColumn": 39,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 35,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 138,
+                        "endColumn": 32,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 35,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 66,
+                        "endColumn": 32,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endLine": 14,
+                    "endColumn": 9,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 183,
+                        "endLine": 12,
+                        "endColumn": 9,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endLine": 17,
+                    "endColumn": 9,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 495,
+                        "endLine": 17,
+                        "endColumn": 9,
+                        "endOffset": 643
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 16,
+                        "endColumn": 48,
+                        "endOffset": 63
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 39,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 172,
+                        "endColumn": 36,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 39,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 100,
+                        "endColumn": 36,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 42,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 210,
+                        "endColumn": 39,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 35,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 138,
+                        "endColumn": 32,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 35,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 66,
+                        "endColumn": 32,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endLine": 14,
+                    "endColumn": 9,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 183,
+                        "endLine": 12,
+                        "endColumn": 9,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endLine": 17,
+                    "endColumn": 9,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 495,
+                        "endLine": 17,
+                        "endColumn": 9,
+                        "endOffset": 643
+                    }
+                }
+            }
+        ]
+    }
+]

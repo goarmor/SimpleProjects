@@ -1,0 +1,80 @@
+[
+    {
+        "outputFile": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 9,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\android-tween-animation\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 218,
+                        "endLine": 9,
+                        "endColumn": 9,
+                        "endOffset": 357
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 9,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\timofeya\\Desktop\\AndroidWorkspace\\Lessons\\android-tween-animation\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 211,
+                        "endLine": 9,
+                        "endColumn": 9,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 9,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "E:\\Job in Merkuriy\\Fandroid\\Lessons Android\\LessonsAndroidToUploadGit\\android-tween-animation\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 218,
+                        "endLine": 9,
+                        "endColumn": 9,
+                        "endOffset": 357
+                    }
+                }
+            }
+        ]
+    }
+]

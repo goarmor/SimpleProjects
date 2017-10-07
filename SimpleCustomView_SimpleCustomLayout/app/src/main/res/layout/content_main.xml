@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight=".5"
+        android:background="@android:color/holo_green_dark"/>
+
+    <ua.com.todd.customviewproject.widgets.SplitLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".5">
+        <ua.com.todd.customviewproject.widgets.SplitLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".5">
+
+            <ua.com.todd.customviewproject.widgets.UploadImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@android:color/holo_blue_bright"
+                app:upload="http://cs629303.vk.me/v629303862/11ab6/M3f1GLO5vRo.jpg"/>
+            <ua.com.todd.customviewproject.widgets.UploadImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@android:color/holo_blue_bright"
+                app:upload="http://cs629303.vk.me/v629303862/11a93/P35Y7fG8kHw.jpg"/>
+        </ua.com.todd.customviewproject.widgets.SplitLayout>
+        <ua.com.todd.customviewproject.widgets.UploadImageView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@android:color/holo_blue_bright"
+            app:upload="http://cs7002.vk.me/v7002712/f876/EzVlIRa3G7s.jpg"/>
+    </ua.com.todd.customviewproject.widgets.SplitLayout>
+</LinearLayout>
